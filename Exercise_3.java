@@ -2,7 +2,7 @@ import java.io.*;
 
 // Java program to implement 
 // a Singly Linked List 
-//Time complexcity is O(1) if list is empty(best case), and O(n) otherwise for insert (worst case) .
+//Time complexcity is O(1) for insert operation if list is empty(best case), and O(n) otherwise for insert (worst case) .
 //Same applicable for display method.O(1) for best case and O(n) for worst case.
 //Space complexity is also O(1) in best case scenario and O(n) in worst case scenario.
 public class LinkedList {
